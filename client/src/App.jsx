@@ -1,6 +1,5 @@
 import { useState } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './components/Navbar';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';import Navbar from './components/Navbar';
 import CreatorCard from './components/CreatorCard';
 import CreatorDetail from './pages/CreatorDetail';
 import { creatorsData } from './data/creators';
