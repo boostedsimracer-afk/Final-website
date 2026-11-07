@@ -98,7 +98,7 @@ export const creatorsData = [
     city: 'Bahrain',
     specialty: 'BIC Circuit & Track Days',
     gear: 'Sony A1 • 70-200mm f/2.8 GM II • 24mm f/1.4',
-    startingRate: 50, // in BHD or 500 SAR
+    startingRate: 500, // in BHD or 500 SAR
     rating: 5.0,
     reviewsCount: 31,
     avatar: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=300&auto=format&fit=crop&q=80',
