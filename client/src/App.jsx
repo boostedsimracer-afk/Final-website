@@ -64,7 +64,7 @@ function Home() {
 
 export default function App() {
   return (
-    <Router basename="/Final-website">
+    <Router basename={import.meta.env.BASE_URL}>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
