@@ -64,7 +64,7 @@ function Home() {
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/Final-website">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
